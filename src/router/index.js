@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Hello from '@/components/Hello'
-import Test from '@/components/Test'
+import App from '@/components/Bar'
+import Simple from '@/components/Simple'
 
 Vue.use(Router)
 
@@ -10,12 +10,12 @@ export default new Router({
     {
       path: '/',
       name: 'Hello',
-      component: Hello
+      component: App
     },
     {
-      path: '/test',
-      name: 'Testo',
-      component: Test
+      path: '/simple',
+      name: 'Simple',
+      component: Simple
     }
   ]
 })

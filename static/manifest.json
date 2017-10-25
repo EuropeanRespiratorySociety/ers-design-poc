@@ -1,6 +1,6 @@
 {
-  "name": "mevar",
-  "short_name": "mevar",
+  "name": "ERS Proof of Concept",
+  "short_name": "ers-poc",
   "icons": [
     {
       "src": "img/icons/android-chrome-192x192.png",
