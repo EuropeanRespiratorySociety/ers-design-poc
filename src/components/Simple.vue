@@ -143,11 +143,87 @@
                   <v-card-text class="px-0">1</v-card-text>
                 </v-card>
               </v-flex>
+              <v-flex xs12 sm6>
+                  <v-card>
+                    <v-card-media src="https://cdn.pixabay.com/photo/2017/09/22/23/57/fire-2777580_960_720.jpg" height="200px">
+                    </v-card-media>
+                    <v-card-title primary-title>
+                      <div>
+                        <h3 class="headline mb-0">Kangaroo Valley Safari</h3>
+                        <div>Located two hours south of Sydney in the <br>Southern Highlands of New South Wales, ...</div>
+                      </div>
+                    </v-card-title>
+                    <v-card-actions>
+                      <v-btn flat color="orange">Share</v-btn>
+                      <v-btn flat color="orange">Explore</v-btn>
+                    </v-card-actions>
+                  </v-card>
+              </v-flex>
+              <v-flex xs12 sm6>
+                  <v-card>
+                    <v-card-media src="https://cdn.pixabay.com/photo/2017/09/22/23/57/fire-2777580_960_720.jpg" height="200px">
+                    </v-card-media>
+                    <v-card-title primary-title>
+                      <div>
+                        <h3 class="headline mb-0">Kangaroo Valley Safari</h3>
+                        <div>Located two hours south of Sydney in the <br>Southern Highlands of New South Wales, ...</div>
+                      </div>
+                    </v-card-title>
+                    <v-card-actions>
+                      <v-btn flat color="orange">Share</v-btn>
+                      <v-btn flat color="orange">Explore</v-btn>
+                    </v-card-actions>
+                  </v-card>
+                </v-flex>
             </v-layout>
           </v-container>
         </v-card>
+          <v-container grid-list-md>
+            <v-layout row wrap>
+<v-flex xs12 sm6>
+                  <v-card>
+                    <v-card-media src="https://cdn.pixabay.com/photo/2017/09/22/23/57/fire-2777580_960_720.jpg" height="200px">
+                    </v-card-media>
+                    <v-card-title primary-title>
+                      <div>
+                        <h3 class="headline mb-0">Kangaroo Valley Safari</h3>
+                        <div>Located two hours south of Sydney in the <br>Southern Highlands of New South Wales, ...</div>
+                      </div>
+                    </v-card-title>
+                    <v-card-actions>
+                      <v-btn flat color="orange">Share</v-btn>
+                      <v-btn flat color="orange">Explore</v-btn>
+                    </v-card-actions>
+                  </v-card>
+              </v-flex>
+              <v-flex xs12 sm6>
+                  <v-card>
+                    <v-card-media src="https://cdn.pixabay.com/photo/2017/09/22/23/57/fire-2777580_960_720.jpg" height="200px">
+                    </v-card-media>
+                    <v-card-title primary-title>
+                      <div>
+                        <h3 class="headline mb-0">Kangaroo Valley Safari</h3>
+                        <div>Located two hours south of Sydney in the <br>Southern Highlands of New South Wales, ...</div>
+                      </div>
+                    </v-card-title>
+                    <v-card-actions>
+                      <v-btn flat color="orange">Share</v-btn>
+                      <v-btn flat color="orange">Explore</v-btn>
+                    </v-card-actions>
+                  </v-card>
+                </v-flex>
+            </v-layout>
+          </v-container>
+
       </v-flex>
     </v-layout> 
+
+    </v-container>
+    <v-container grid-list-md text-xs-center>
+     <v-layout>
+    
+  </v-layout>
+   
     </v-container>
   </main>
 
